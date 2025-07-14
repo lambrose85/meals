@@ -1,0 +1,22 @@
+{
+    "name": "Fettuccine Alfredo",
+    "day": "Wednesday",
+    "ingredients": [
+      {
+        "name": "Fettuccine",
+        "amount": "300g"
+      },
+      {
+        "name": "Heavy Cream",
+        "amount": "200ml"
+      },
+      {
+        "name": "Butter",
+        "amount": "100g"
+      },
+      {
+        "name": "Parmigiano Reggiano",
+        "amount": "80g"
+      }
+    ]
+  }

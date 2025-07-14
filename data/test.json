@@ -1,0 +1,16 @@
+{
+    "name": "Vegetable Stir Fry",
+    "day": "Monday",
+    "ingredients": [
+        {
+            "name": "Broccoli",
+            "amount": "2"
+            
+        },
+        {
+            "name": "Soy Sauce",
+            "amount": "2"
+            
+        }
+    ]
+}

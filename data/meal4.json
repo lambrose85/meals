@@ -1,0 +1,18 @@
+{
+    "name": "Berry Smoothie",
+    "day": "Friday",
+    "ingredients": [
+      {
+        "name": "Mixed Berries",
+        "amount": "1.5 cups"
+      },
+      {
+        "name": "Almond Milk",
+        "amount": "1 cup"
+      },
+      {
+        "name": "Honey",
+        "amount": "1 tbsp"
+      }
+    ]
+  }

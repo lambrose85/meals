@@ -1,0 +1,23 @@
+
+  {
+    "name": "Spaghetti Carbonara",
+    "day": "Monday",
+    "ingredients": [
+      {
+        "name": "Spaghetti",
+        "amount": "400g"
+      },
+      {
+        "name": "Pancetta",
+        "amount": "150g"
+      },
+      {
+        "name": "Eggs",
+        "amount": "3"
+      },
+      {
+        "name": "Pecorino Romano",
+        "amount": "50g"
+      }
+    ]
+  }

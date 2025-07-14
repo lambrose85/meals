@@ -1,0 +1,22 @@
+{
+    "name": "Penne Arrabbiata",
+    "day": "Tuesday",
+    "ingredients": [
+      {
+        "name": "Penne",
+        "amount": "350g"
+      },
+      {
+        "name": "Tomato Passata",
+        "amount": "400ml"
+      },
+      {
+        "name": "Garlic",
+        "amount": "3 cloves"
+      },
+      {
+        "name": "Red Chili Flakes",
+        "amount": "1 tsp"
+      }
+    ]
+  }

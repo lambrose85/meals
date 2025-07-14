@@ -1,0 +1,18 @@
+{
+    "name": "Avocado Toast",
+    "day": "Thursday",
+    "ingredients": [
+      {
+        "name": "Sourdough Bread",
+        "amount": "2 slices"
+      },
+      {
+        "name": "Avocado",
+        "amount": "1 medium"
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "amount": "1 tsp"
+      }
+    ]
+  }

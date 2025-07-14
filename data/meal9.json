@@ -1,0 +1,22 @@
+{
+    "name": "Lasagna Bolognese",
+    "day": "Friday",
+    "ingredients": [
+      {
+        "name": "Lasagna Sheets",
+        "amount": "12"
+      },
+      {
+        "name": "Ground Beef",
+        "amount": "500g"
+      },
+      {
+        "name": "Béchamel Sauce",
+        "amount": "300ml"
+      },
+      {
+        "name": "Mozzarella",
+        "amount": "200g"
+      }
+    ]
+  }

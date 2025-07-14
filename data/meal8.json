@@ -1,0 +1,22 @@
+{
+    "name": "Ravioli al Tartufo",
+    "day": "Thursday",
+    "ingredients": [
+      {
+        "name": "Fresh Ravioli",
+        "amount": "250g"
+      },
+      {
+        "name": "Truffle Oil",
+        "amount": "2 tbsp"
+      },
+      {
+        "name": "Mushrooms",
+        "amount": "200g"
+      },
+      {
+        "name": "White Wine",
+        "amount": "100ml"
+      }
+    ]
+  }
