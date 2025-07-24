@@ -34,9 +34,7 @@ func main() {
 		fmt.Println("JSON ERROR: ", err)
 		return
 	}
-	//
-	test := "data"
-	fmt.Println("available meals")
-	meals.ViewRecipes(test)
+
+	meals.NewRecipe("")
 
 }
